@@ -1,0 +1,10 @@
+[package]
+name = "bevy_basic_template"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.6.1"
+
+[workspace]
+resolver = "2"
